@@ -1,4 +1,4 @@
-# BookMyShow Clone
+# Popcorn palace
 
 ![](demo.gif)
 
