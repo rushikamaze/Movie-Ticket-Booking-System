@@ -2,11 +2,11 @@
 
 ![](demo.gif)
 
-Welcome to the BookMyShow Clone project! This React-based application aims to replicate the user interface and functionality of the popular ticket booking platform, BookMyShow. Whether you're a developer looking to explore React or someone interested in creating a custom ticket booking app, this project provides a comprehensive foundation.
+Welcome to the Popcorn palace! This React-based application aims to replicate the user interface and functionality of the popular ticket booking platform, BookMyShow. Whether you're a developer looking to explore React or someone interested in creating a custom ticket booking app, this project provides a comprehensive foundation.
 
 ## Description
 
-BookMyShow is a popular platform that allows users to browse and book tickets for movies, events, and various entertainment shows. This clone project recreates the key features of the BookMyShow platform, providing a seamless and interactive user experience.
+Popcorn palace is a popular platform that allows users to browse and book tickets for movies, events, and various entertainment shows. This clone project recreates the key features of the Popcorn palace platform, providing a seamless and interactive user experience.
 
 ## Key Features
 
@@ -56,32 +56,6 @@ Download the BookMyShow Clone app now and enjoy a seamless ticket booking experi
 
 ## Installation and Usage Guide
 
-### Fork the Repository
-
-Click the "Fork" button at the top right corner of the page. This will create a copy of the repository under your GitHub account.
-
-### Installation
-
-To run the Project locally, follow these steps:
-
-1. Clone the Repository
-
-   ```bash
-   git clone https://github.com/your-username/BookMyShow-clone.git
-   ```
-
-2. Navigate to the project directory
-
-   ```bash
-   cd BookMyShow-clone
-   ```
-
-3. Install the dependencies using npm
-
-   ```bash
-   npm install
-   ```
-
 ### Configuration
 
 Create a `.env` file in the root directory and add the following configurations:
@@ -92,13 +66,6 @@ REACT_APP_GOOGLE_CLIENT_ID = 'YOUR_GOOGLE_CLIENT_ID'
 REACT_APP_RAZORPAY_KEY = 'YOUR_RAZORPAY_API_KEY'
 REACT_APP_OPENCAGE_API_KEY = 'YOUR_OPENCAGE_API_KEY'
 ```
-
-Replace the placeholder values `<YOUR_MOVIEDB_API_KEY>`, `<YOUR_GOOGLE_CLIENT_ID>`, `<YOUR_RAZORPAY_API_KEY>`, and `<YOUR_OPENCAGE_API_KEY>` with your actual API keys. You can obtain these keys from the following resources:
-
-- MovieDB API Key: [The MovieDB API](https://www.themoviedb.org/documentation/api)
-- Google Cloud API Key: [Google Cloud Console](https://console.cloud.google.com/)
-- Razorpay API Key: [Razorpay Dashboard](https://dashboard.razorpay.com/app/keys)
-- OpenCage API Key: [OpenCage Data](https://opencagedata.com/api)
 
 
 ## Usage
