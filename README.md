@@ -92,8 +92,9 @@ This will start the application on your computer's local development server, acc
 
 
 
-# Error Page
+# Error Page:
 
+<img width="1853" height="715" alt="image" src="https://github.com/user-attachments/assets/c7602c18-7192-4935-9017-71f9c3e1e814" />
 
 
 ### Future Improvements:
