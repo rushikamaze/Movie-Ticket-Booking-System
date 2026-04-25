@@ -78,18 +78,32 @@ This will start the application on your computer's local development server, acc
 
 ## ScreenShots
 
+# Sign In Page:
+<img width="1046" height="477" alt="image" src="https://github.com/user-attachments/assets/7516c06a-6ab1-4de3-b420-fc4b1bae9e15" />
+
+# Select Location:
+<img width="1047" height="468" alt="image" src="https://github.com/user-attachments/assets/5155510c-504f-4547-8712-f763fcab7170" />
+
 # Home Page:
 
-![App Screenshot](/src/Screenshots/Home.png)
+<img width="1086" height="489" alt="image" src="https://github.com/user-attachments/assets/169f8a8a-51c4-4520-a41f-408371378506" />
 
 # Movie Page:
 
-![App Screenshot](/src/Screenshots/Movie.png)
 
-# Sign In Page:
 
-![App Screenshot](/src/Screenshots/SignIn.png)
+# Error Page
 
-# Payment Page
 
-![App Screenshot](/src/Screenshots/Payment.png)
+
+### Future Improvements:
+- Add seat selection system
+- Integrate backend for booking functionality
+- Improve error handling and loading states
+- Add search and filtering features
+- Deploy full-stack version
+
+### Contact:
+If you’d like to connect or collaborate:
+- GitHub: https://github.com/rushikamaze
+- Email: gdrushikadatta@gmail.com
