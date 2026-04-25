@@ -90,7 +90,7 @@ This will start the application on your computer's local development server, acc
 
 # Movie Page:
 
-
+<img width="1853" height="715" alt="image" src="https://github.com/user-attachments/assets/86110264-61ad-400b-b149-f6ab79e1c045" />
 
 # Error Page:
 
